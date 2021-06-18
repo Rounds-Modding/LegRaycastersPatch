@@ -1,0 +1,9 @@
+{
+    "name": "LegRaycastersPatch",
+    "version_number": "0.0.0",
+    "website_url": "https://github.com/Rounds-Modding/LegRaycastersPatch",
+    "description": "Patches erroneous logic in the base game that causes physics issues for small players",
+    "dependencies": [
+	"BepInEx-BepInExPack_ROUNDS-5.4.1100"
+    ]
+}
